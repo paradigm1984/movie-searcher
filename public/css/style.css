@@ -1,0 +1,56 @@
+
+/*
+colors:
+gray : #2e2e30
+
+fonts:
+font-family: 'Roboto Slab', serif;
+*/
+
+html, body {
+  background-color: black;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+.navbar-custom {
+  background-color: #2e2e30;
+  /*background-image: url("../imgs/cf2.png");*/
+  padding: .5% 0;
+}
+
+.brand-custom {
+  color: white;
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 25px;
+  line-height: 20px;
+  letter-spacing: .1em;
+  font-weight: bolder;
+}
+.brand-custom:hover {
+  text-decoration: none;
+  color: lightgray;
+}
+
+.main-jumbo {
+  background-color: #2e2e30;
+  /*background-image: url("../imgs/cf2.png");*/
+  padding: 3% 0;
+}
+
+.main-title {
+  text-align: center;
+  color: white;
+}
+
+.input-form {
+  padding: 3% 0;
+}
+
+.form-control {
+  width: 90%;
+  margin: auto;
+
+}

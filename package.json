@@ -1,0 +1,26 @@
+{
+  "name": "movie-searcher-jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paradigm1984/movie-searcher-jQuery.git"
+  },
+  "author": "Blancooo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paradigm1984/movie-searcher-jQuery/issues"
+  },
+  "homepage": "https://github.com/paradigm1984/movie-searcher-jQuery#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "webpack": "^3.8.1"
+  }
+}
